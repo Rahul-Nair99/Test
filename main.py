@@ -1,2 +1,2 @@
-print('Merge Conflict print')
+print('main print')
 print('2nd local print')
